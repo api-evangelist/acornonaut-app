@@ -66,7 +66,7 @@
 
 Acornonaut is an AI-powered platform that transforms YouTube videos into spaced-repetition flashcards. Users can paste video URLs or playlists, and the service extracts transcripts, identifies key concepts, and generates concise flashcards that are exported to Anki or studied directly. The tool offers three free playlists, no credit card required, and aims to help learners retain knowledge efficiently.
 
-**Areas:** Company · AI · Education · Flashcards · YouTube
+**Areas:** Company · Artificial Intelligence · Education · Flashcards · YouTube
 
 ## acornonaut-app on APIs.io
 
@@ -86,7 +86,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Acornonaut App Agentic Access](https://apis.io/agentic-access/acornonaut-app/acornonaut-app-agentic-access/)
+- [acornonaut-app Agentic Access](https://apis.io/agentic-access/acornonaut-app/acornonaut-app-agentic-access/)
 
 #### JSON Schema (2)
 
@@ -105,26 +105,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Acornonaut App Authentication](https://apis.io/security/acornonaut-app/acornonaut-app-authentication/)
-- [Acornonaut App Domain Security](https://apis.io/security/acornonaut-app/acornonaut-app-domain-security/)
+- [acornonaut-app Authentication](https://apis.io/security/acornonaut-app/acornonaut-app-authentication/)
+- [acornonaut-app Domain Security](https://apis.io/security/acornonaut-app/acornonaut-app-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Acornonaut App Scopes](https://apis.io/scopes/acornonaut-app/acornonaut-app-scopes/)
+- [acornonaut-app Scopes](https://apis.io/scopes/acornonaut-app/acornonaut-app-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Acornonaut App Plans Pricing](https://apis.io/plans/acornonaut-app/acornonaut-app-plans-pricing/)
+- [acornonaut-app Plans Pricing](https://apis.io/plans/acornonaut-app/acornonaut-app-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Acornonaut App Rate Limits](https://apis.io/rate-limits/acornonaut-app/acornonaut-app-rate-limits/)
+- [acornonaut-app Rate Limits](https://apis.io/rate-limits/acornonaut-app/acornonaut-app-rate-limits/)
 
 ## Where to find this API
 
@@ -142,28 +142,28 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 55.7** — strong · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 47.5** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 47.8 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
+| Discoverability | 68.3 |
+| Contract quality | 50.8 |
+| Contract governance | 22.0 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 44.5 |
-| Access clarity | 73.2 |
+| Access clarity | 70.2 |
 
-**Agent readiness 34.4** — agent-ready
+**Agent readiness 39.3** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
-| Error Semantics | derived (partial credit) |
+| Error Semantics | verified |
 | OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
@@ -178,8 +178,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 31.8** — Education & Research
+**Regulatory alignment 26.4** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acornonaut-app/](https://apis.io/providers/acornonaut-app/).
 
